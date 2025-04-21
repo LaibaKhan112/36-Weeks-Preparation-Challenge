@@ -1,1 +1,1 @@
-# 36-weeks-remote-jobs-preparation-challenge
+# 36-Weeks-Preparation-Challenge
