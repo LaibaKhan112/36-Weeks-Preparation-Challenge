@@ -1,0 +1,12 @@
+{
+    "launch": {
+
+        "configurations": [],
+        "compounds": []
+    },
+    "terminal.integrated.suggest.providers": {
+        
+        "terminal-suggest": true,
+        "pwsh-shell-integration": true
+    }
+}
